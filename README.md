@@ -1,21 +1,22 @@
-##CS420 Assignment 2  
-Name: Yuzhou Ge  
-ID: 7057669325  
+# Spline_Roller_Coaster
+> **Author: Yuzhou Ge** -University of Southern California
 
-Operating System: MAC OS
+### Operating System
+	MAC OS
 
-First compile the pic library(make sure it locates one level above)
+##### Before Compling
+	First compile the pic library(make sure it locates one level above)
 
-Instructions for complie and run
+### Instructions for complie and run  
 	Use the provided Makefile, type "make". It will be complied.
 	Run the program: type "./assign2 track.txt".
 
 
-Take Screenshot:
+### Take Screenshot:
 	Type "X" or "x" in keyboard, all screenshot will be saved to folder named "imageOutput"
 	(I have taken the screen shots)
 
-Requirements:
+### Requirements:
 	Level one: create 3 sets of Catmull-Rom spline points, two for double rail and 1 for camera movement. 
 	Level two: Map the ground by an earth image
 	Level three: Map the sky by galaxy images. Create a space roller coaster
@@ -23,7 +24,7 @@ Requirements:
 	Level five: Create wood textured cross bars.
 
 
-Extra Credits:
+### Extra Functionalities:
 	1. Render a T-shaped rail cross-section. 
 	   Create the rectanger section between two rails.
 
