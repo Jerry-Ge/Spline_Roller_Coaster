@@ -1,6 +1,6 @@
->CS420 Assignment 2
-Name: Yuzhou Ge
-ID: 7057669325
+##CS420 Assignment 2  
+Name: Yuzhou Ge  
+ID: 7057669325  
 
 Operating System: MAC OS
 
