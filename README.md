@@ -4,7 +4,7 @@
 ### Operating System
 	MAC OS
 
-##### Before Compling
+### Before Compling
 	First compile the pic library(make sure it locates one level above)
 
 ### Instructions for complie and run  
