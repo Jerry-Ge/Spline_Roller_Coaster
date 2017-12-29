@@ -11,9 +11,9 @@ LIBRARIES = -L$(PIC_PATH) -framework OpenGL -framework GLUT -lpicio -ljpeg -lm
 COMPILER = g++
 COMPILERFLAGS = -O3 $(INCLUDE)
 
-PROGRAM = assign2
-SOURCE = assign2.cpp
-OBJECT = assign2.o
+PROGRAM = main
+SOURCE = main.cpp
+OBJECT = main.o
 
 .cpp.o: 
 	$(COMPILER) -c $(COMPILERFLAGS) $<
